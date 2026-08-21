@@ -1,0 +1,12 @@
+{
+  "name": "logistics-week3-eda-report",
+  "version": "1.0.0",
+  "description": "Generates the Week 3 EDA & Visualization Word report for the RegionalCo Logistics analytics project.",
+  "private": true,
+  "scripts": {
+    "build-report": "node src/build_report.js"
+  },
+  "dependencies": {
+    "docx": "^9.0.0"
+  }
+}
