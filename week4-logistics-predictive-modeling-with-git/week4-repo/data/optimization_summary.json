@@ -1,0 +1,20 @@
+{
+  "n_orders": 40,
+  "baseline_total_cost": 513.5,
+  "optimized_total_cost": 503.2,
+  "cost_savings": 10.3,
+  "cost_savings_pct": 2.0,
+  "baseline_predicted_total_delay_min": -401.3,
+  "optimized_predicted_total_delay_min": -399.1,
+  "vehicle_mix_baseline": {
+    "Van": 18,
+    "Bike": 16,
+    "Truck": 6
+  },
+  "vehicle_mix_optimized": {
+    "Van": 16,
+    "Bike": 14,
+    "Truck": 10
+  },
+  "solver_status": "Optimal"
+}

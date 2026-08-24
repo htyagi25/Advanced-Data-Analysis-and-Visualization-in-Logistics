@@ -1,0 +1,12 @@
+feature,importance
+route_distance_km,0.7960226660416072
+warehouse_W2 - Central,0.09801065492907975
+is_weekend,0.06253367868814513
+order_volume_units,0.027448639815485495
+vehicle_type_Truck,0.00342219424716987
+sku_category_Grocery,0.002653067018368964
+sku_category_Personal Care,0.002521765971452708
+warehouse_W3 - South,0.00243526746453313
+sku_category_Electronics,0.002082737207866167
+sku_category_Home & Kitchen,0.0015568324606729698
+vehicle_type_Van,0.0013124961556185782

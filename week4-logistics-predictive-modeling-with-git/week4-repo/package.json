@@ -1,0 +1,12 @@
+{
+  "name": "logistics-week4-predictive-modeling-optimization",
+  "version": "1.0.0",
+  "description": "Predictive delay modeling + PuLP vehicle-assignment optimization for a simulated last-mile logistics network, with automated Word report generation.",
+  "private": true,
+  "scripts": {
+    "build-report": "node src/build_week4.js"
+  },
+  "dependencies": {
+    "docx": "^9.0.0"
+  }
+}
